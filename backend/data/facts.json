@@ -1,0 +1,16 @@
+{
+    "full_name": "Baazil Akhlaque",
+    "name": "Baazil",
+    "current_role": "Student",
+    "location": "Rochester, New York, United States",
+    "email": "bakhlaqu@u.rochester.edu",
+    "linkedin": "https://www.linkedin.com/in/baazilakhlaque/",
+    "github": "https://github.com/baazilakhlaque",
+    "education": [
+      {
+        "degree": "Computer Science",
+        "institution": "University of Rochester",
+        "year": "2026"
+      }
+    ]
+  }
