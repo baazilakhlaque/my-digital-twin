@@ -1,0 +1,46 @@
+EDUCATION
+University of Rochester, Rochester, NY May 2026
+Bachelor of Science in Computer Science , Minor in Economics CGPA: 3.87/4.00
+TECHNICAL SKILLS
+Skills - Python, SQL, R, FastAPI, Java, JavaScript, TypeScript, LangChain, CrewAI, AWS, Git, React.js, Next.js, Node.js
+COURSEWORK
+Data Structures & Algorithms, Design & Analysis of Efficient Algorithms, Artificial Intelligence, Discrete Mathematics, Linear
+Algebra, Natural Language Processing, Data Mining, Statistics in R, Computer Models & Limitations, Computer Architecture
+WORK EXPERIENCE
+Qualcomm — Software Engineer Intern May 2025 – Aug 2025
+● Built a tool for 5G Modem Test Execution Framework to automate test cases generation & execution at scale.
+● Utilized Django backend to persist user test cases, and orchestrate server-side test execution across 100+ devices.
+● Decreased debugging time by 50% by authoring backend Python utilities for real-time network diagnostics during test
+case creation.
+● Improved test cases generation efficiency by 35% by designing & testing scalable REST APIs using FastAPI & Postman.
+● Reduced server load by 40% by leveraging React Query for efficient caching, request deduplication & background data
+synchronization.
+● Collaborated with cross-functional stakeholders for future iteration, usability testing, and pre-production validation.
+Horizon Labs – Research Assistant May 2024 – Aug 2024
+● Researched on how Latent Diffusion models classify, learn & predict artistic styles from images of Chinese paintings.
+● Curated a data set of ~3000 images scraped from MET & Harvard Art Museum APIs by writing Python scripts.
+● Enhanced model training efficiency by 30% by developing an image preprocessing technique to standardize training
+images using aspect ratios and data normalization.
+● Performed image filtering by using OpenAI’s ‘CLIP’ to collect similar Chinese paintings as per the CLIP model,
+enhancing dataset precision.
+● Led weekly meetings with the Professor to show progress, propose solutions & set up future goals.
+University of Rochester – Teaching Assistant of Data Structures and Algorithms Apr 2023 – Present
+● Assisted professors teach 200+ students topics including trees, graph algorithms, & dynamic programming in Java.
+● Led a weekly lecture review with 20+ students, upskill students with best coding practices & optimizing algorithms.
+● Designed weekly material, and lesson plans that average a 90% completion rate.
+PROJECTS
+AI Study Assistant - Python, FastAPI, LangChain, Gemini, Pinecone, Next.js, TypeScript, Tailwind CSS, Shadcn/ui
+● Engineered a full-stack RAG app for students to upload and query course PDFs, reducing study lookup time by 60%.
+● Cut redundant queries by 30% by designing a Next.js & TypeScript frontend with real-time chat & file management.
+● Developed LangChain PDF processing pipeline to clean/chunk/embed 100+ page PDFs, boosting retrieval quality.
+● Architected FastAPI microservice: CORS middleware & RESTful API design for doc processing & RAG-based querying.
+Financial-Analyst-Agent - Python, CrewAI, Model Context Protocol (MCP), AWS S3, OpenAI, Langfuse
+● Built a multi-agent system for natural-language stock analysis & visualization, reducing query-to-insight time by 80%.
+● Automated end-to-end workflows via agent-based code generation, execution & validation without manual scripting.
+● Reduced execution failures by 20% by implementing agent-driven recovery & self-healing code execution pipelines.
+● Improved integration & reusability of AI-powered tools by deploying a MCP server & auto-uploading charts to AWS S3.
+● Enhanced agent observability by 40% by integrating Langfuse tracing to monitor agents’ execution, failures & latency.
+Agentic Virtual Itinerary Navigator (VIN) - Python, Model Context Protocol (MCP), FastMCP, REST APIs
+● Built an AI Agent that searches restaurants, schedules events & notifies attendees, boosting scheduling speed by 2x.
+● Built a MCP server with 6+ AI tools to automate Google calendar event creation, email notifications & venue discovery.
+● Implemented OAuth 2.0/token management for security & to support scalable microservice orchestration across tools.

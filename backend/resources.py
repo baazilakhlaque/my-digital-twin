@@ -1,7 +1,7 @@
 from pypdf import PdfReader
 import json
+import pdfplumber
 
-# Read LinkedIn PDF
 try:
     reader = PdfReader("./data/linkedin.pdf")
     linkedin = ""
@@ -10,7 +10,7 @@ try:
         if text:
             linkedin += text
 except FileNotFoundError:
-    linkedin = "LinkedIn profile not available"
+    linkedin = "Linkedin not available"
 
 # Read other data files
 with open("./data/summary.txt", "r", encoding="utf-8") as f:
@@ -19,5 +19,10 @@ with open("./data/summary.txt", "r", encoding="utf-8") as f:
 with open("./data/style.txt", "r", encoding="utf-8") as f:
     style = f.read()
 
+
 with open("./data/facts.json", "r", encoding="utf-8") as f:
     facts = json.load(f)
+
+with open("./data/resume.txt", "r", encoding="utf-8") as f:
+    resume = f.read()
+

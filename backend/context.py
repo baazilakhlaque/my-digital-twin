@@ -1,4 +1,4 @@
-from resources import linkedin, summary, facts, style
+from resources import linkedin, summary, facts, style, resume
 from datetime import datetime
 
 
@@ -29,6 +29,11 @@ Here is the LinkedIn profile of {name}:
 Here are some notes from {name} about their communications style:
 {style}
 
+
+For questions about anything related to Baazil's resume (like work experience, projects, skills etc), you should refer and state the details in the resume provided as it is, and don't need to add or delete any additional information:
+{resume}
+
+For additional queries regarding projects or skills which are not explicitly mentioned in the resume, guide the user to my github by giving them the link.
 
 For reference, here is the current date and time:
 {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
